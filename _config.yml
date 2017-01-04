@@ -107,6 +107,14 @@ author:
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
 
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Articles
+    url: /articles
+
 # Reading Files
 include:
   - .htaccess
